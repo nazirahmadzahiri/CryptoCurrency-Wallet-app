@@ -1,4 +1,4 @@
-# Let's Code React-Native
+# Code React-Native
 
 npx react-native run-android
 
