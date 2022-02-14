@@ -3,13 +3,15 @@
 npx react-native run-android
 
 React-Native
+
 React-redux
+
 npm i react-native-splash-screen --save
+
 npm install react-native-linear-gradient --save
 
 
-
-![11](https://user-images.githubusercontent.com/23152421/153889475-1fba6184-e1f1-466b-8be8-c8445c121879.png)
+![11](https://user-images.githubusercontent.com/23152421/153890156-5ed9cc0c-613f-4d75-9f95-80977795b304.png)
 
 ![22](https://user-images.githubusercontent.com/23152421/153889478-12386cac-e98b-4c38-93f1-b8bcaf3e9630.png)
 
